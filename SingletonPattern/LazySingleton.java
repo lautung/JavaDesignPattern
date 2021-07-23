@@ -1,4 +1,4 @@
-package Singleton;
+package SingletonPattern;
 
 // 懒汉式
 public class LazySingleton {
